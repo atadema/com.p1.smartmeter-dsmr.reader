@@ -14,7 +14,7 @@ logger.add(new logger.transports.Console({
  * 5: Refresh the page (you see couple of webpages being called)
  * 6: Copy the `homeyId` from the url: https://[localId].homey.homeylocal.com/api/manager/system/ping?id=[homeyId]
  */
-const homeyId = '5c....................23'
+const homeyId = '5a85256b2d37656f41de0af6'
 
 const usbPort = '/dev/ttyUSB0'
 const bps = 115200
